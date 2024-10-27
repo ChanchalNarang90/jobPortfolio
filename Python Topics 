@@ -7,7 +7,9 @@ input,output,chatbot,messaging-app
    type-conversion,)
 4.comparison and logical 
   operators,controlflow,Loops
-5.Working with  
+5.Working with collection types:
   Lists,Tuples,Sets,Dictionaries
 6.Functions,List comprehensions
-
+7.Error handling
+8.Functional programming
+9.OOps
